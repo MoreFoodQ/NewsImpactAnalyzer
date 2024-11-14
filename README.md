@@ -42,7 +42,7 @@
 
 **以下為範例:**  
 參考新聞網址:https://hk.investing.com/news/stock-market-news/article-701450
-**輸出結果:**
+**輸出結果(GPT4o):**  
 
 <pre>標題: 聯儲局12月降息預期大幅升溫 韓股、日股回暖 施羅德看好亞洲股市
 
