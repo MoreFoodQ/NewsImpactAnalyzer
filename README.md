@@ -20,7 +20,7 @@
 
  2. 安裝依賴項：
 
-<pre> pip install requests beautifulsoup4 opencc-python-reimplemented openai  </pre> 
+<pre> pip install beautifulsoup4 opencc-python-reimplemented openai  </pre> 
 
 設定環境變數：  
 
